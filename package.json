@@ -1,0 +1,16 @@
+{
+  "name": "css-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack && start index.html"
+  },
+  "keywords": [],
+  "author": "string1301 a.k.a Ramanujam Gond",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
